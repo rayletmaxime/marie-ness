@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css2?family=Merienda:wght@300..900&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+h1 {
+  font-family: "Merienda", cursive;
+}
+
+* {
+  scroll-behavior: smooth;
+}
+
+/* Player styling */
+
+.rhap_container {
+  @apply bg-gray-800;
+}
+
+.rhap_time,
+.rhap_main-controls-button,
+.rhap_volume-button,
+.rhap_repeat-button {
+  @apply text-white;
+}
+
+.rhap_progress-filled,
+.rhap_progress-indicator {
+  @apply bg-white;
+}
+
+.rhap_progress-indicator {
+  width: 13px;
+  height: 13px;
+  top: -4px;
+  background: white;
+}
+
+.rhap_time {
+  font-size: 14px;
+}
