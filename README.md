@@ -8,11 +8,11 @@ In this project, I used :
 
 **🏗️ Building :**
 
-[![My Skills](https://skillicons.dev/icons?i=react,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs)](https://skillicons.dev)
 
 **🎨 Design :**
 
-[![My Skills](https://skillicons.dev/icons?i=sass,emotion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tailwind,sass,emotion)](https://skillicons.dev)
 
 **🚀 Deployment & Tools :**
 
