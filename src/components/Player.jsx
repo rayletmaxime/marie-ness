@@ -2,6 +2,7 @@ import AudioPlayer from "react-h5-audio-player";
 import "react-h5-audio-player/lib/styles.css";
 import { FaSpotify } from "react-icons/fa";
 import { IoLogoYoutube } from "react-icons/io";
+import "./Player.css";
 
 export default function Player() {
   return (

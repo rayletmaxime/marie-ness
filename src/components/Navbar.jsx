@@ -11,9 +11,10 @@ import {
 import logo from "../assets/logo.png";
 
 const navigation = [
-  { name: "Accueil", href: "#", current: false },
+  { name: "Accueil", href: "/", current: false },
   { name: "Discographie", href: "#discography", current: false },
   { name: "Contact", href: "#contact", current: false },
+  { name: "Blog", href: "https://marieness-blog.vercel.app/", current: false },
 ];
 
 function classNames(...classes) {
